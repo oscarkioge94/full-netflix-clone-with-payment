@@ -7,6 +7,7 @@ function HomeScreen() {
         <div className="homescreen">
             {/* nav */}
             <Nav/>
+          
             {/* banner */}
             {/* row */}
             
